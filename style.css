@@ -1,29 +1,32 @@
 body{
-  background-color: #444444;
-  color: #ddfd;
+  background: transparent;
+  background-color: gray;
+  color: pink;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
 }
-.education{
-  text-transform: uppercase;
-  border-top: 1px solid #ddfd;
+.name{
+  font-size: 28px;
+  
 }
-.work{
-  border-top: 1px solid #ddfd;
-  border-bottom: 1px solid #ddfd;
+.contact{
+  text-align:center;
+  
 }
 
-body{
-  background-color: #444444;
-  color: #ddfd;
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%;
-}
-.education{
+.educationheader{
   text-transform: uppercase;
-  border-top: 1px solid #ddfd;
+  border-top: 1px solid;
+  border-color: pink;
 }
-.work{
-  border-top: 1px solid #ddfd;
-  border-bottom: 1px solid #ddfd;
+.educationdetails{
+  margin-bottom: 3%
+    
 }
+
+.workheader{
+  border-top: 1px solid;
+  border-bottom: 1px solid; 
+  border-color: pink;
+}
+
