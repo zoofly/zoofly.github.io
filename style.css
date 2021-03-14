@@ -6,7 +6,7 @@ body{
 }
 
 .name{
-  font-size: 20px;
+  font-size:20px;
 }
 
 .contact{
@@ -23,16 +23,15 @@ body{
 
 #educontainer{
   clear:both;
-  width:200px;
   float:left;
-  font-size:px;
+  width:25%;
     
 }
 
 #content{
-  width:200px;
-  float:right;
- 
+  display:table;
+   float:right;
+   width:75%;
   
 }
 
@@ -45,7 +44,7 @@ body{
   color:black;
   border-radius:5px;
   float:left;
-  width:200px;
+  width:25%;
   
 }
 .update{
