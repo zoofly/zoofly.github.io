@@ -30,9 +30,8 @@ body{
 }
 
 #content{
+  width:500px;
   float:right;
-  width:300px;
-  margin-top:0%;
  
   
 }
@@ -55,3 +54,5 @@ body{
   border-top:5px solid;
   clear:both;
 }
+
+
