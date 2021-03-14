@@ -1,24 +1,22 @@
 body{
-  background: transparent;
-  background-color: gray;
+  background-color:gray;
   color: pink;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
 }
 .name{
   font-size: 28px;
-  
-}
-.contact{
-  text-align:center;
+  border-radius: 15px;
   
 }
 
 .educationheader{
   text-transform: uppercase;
-  border-top: 1px solid;
   border-color: pink;
+  background:black;
+  border-radius: 10px;
 }
+
 .educationdetails{
   margin-bottom: 3%
     
