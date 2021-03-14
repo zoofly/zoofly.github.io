@@ -6,10 +6,11 @@ body{
 }
 .name{
   font-size: 28px;
-  border-radius: 15px;
   float: left;
 }
-
+.contact{
+  font-size:14px
+}
 .educationheader{
   text-transform: uppercase;
   border-top: 1px solid;
@@ -30,5 +31,9 @@ body{
   color:black;
   border-radius:5px
    
-  
+}
+.update{
+  font-size: 12px;
+  text-align:right;
+  border-top:5px solid; 
 }
