@@ -7,14 +7,13 @@ body{
 .name{
   font-size: 28px;
   border-radius: 15px;
-  
+  float: left;
 }
 
 .educationheader{
   text-transform: uppercase;
-  border-color: pink;
-  background:black;
-  border-radius: 10px;
+  border-top: 1px solid;
+  
 }
 
 .educationdetails{
@@ -25,6 +24,11 @@ body{
 .workheader{
   border-top: 1px solid;
   border-bottom: 1px solid; 
-  border-color: pink;
 }
-
+#aboutme{
+  background:pink;
+  color:black;
+  border-radius:5px
+   
+  
+}
