@@ -15,7 +15,6 @@ body{
 
 .eduheader{
   text-transform: uppercase;
-  border-bottom:3px solid;
   line-height:1px;
   margin:10px 0;
    
@@ -31,7 +30,7 @@ body{
 #content{
   display:table;
    float:right;
-   width:75%;
+   width:70%;
   
 }
 
